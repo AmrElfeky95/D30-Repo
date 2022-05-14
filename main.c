@@ -1,3 +1,3 @@
 void func(void){
 	
-	int x = 50;
+	int x = 500;
